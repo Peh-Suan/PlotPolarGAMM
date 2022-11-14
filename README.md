@@ -33,4 +33,4 @@ Whether to plot the different areas, indicated by gray color blocks.
 #### fontSize
 The font size.
 #### returnData
-Whether to return the fitted data as a dataframe. If False, it will return a plotly plot.
+Whether to return the fitted data as a dataframe. If False, it will return a Plotly plot.
